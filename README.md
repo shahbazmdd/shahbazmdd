@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I'm Mohammed Shahbaz, an aspiring Frontend Developer with a passion for Data Science and Artificial Intelligence.<br>🐍 Have a solid foundation in Python and currently diving deep into JavaScript.<br>⚛️ Learning React and Node.js to build dynamic web applications.<br>🤖 Exploring Machine Learning and Deep Learning to create intelligent solutions.<br>📊 Studying Data Structures and Algorithms to enhance problem-solving skills.<br>
+💻 I'm Mohammed Shahbaz, an aspiring Full-Stack Developer with a passion for Data Science and Artificial Intelligence.<br>🐍 Have a solid foundation in Python and currently diving deep into JavaScript.<br>⚛️ Learning React and Node.js to build dynamic web applications.<br>🤖 Exploring Machine Learning and Deep Learning to create intelligent solutions.<br>📊 Studying Data Structures and Algorithms to enhance problem-solving skills.<br>
 
 
 ## 🌐 Socials:
